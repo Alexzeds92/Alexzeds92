@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexzeds92
+- 👋 Hi, I’m @bboy_milo
 - 👀 I’m interested in alot of things that not related to programming :D
 - 🌱 I’m currently learning JS,HTML and CSS
 - 📫 You can reach me by my email : Alexmilovanov92@gmail.com
